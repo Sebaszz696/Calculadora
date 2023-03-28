@@ -1,0 +1,6 @@
+C:\Users\unaula\source\repos\BlHipotenusa\BlHipotenusa\bin\Debug\BlHipotenusa.dll
+C:\Users\unaula\source\repos\BlHipotenusa\BlHipotenusa\bin\Debug\BlHipotenusa.pdb
+C:\Users\unaula\source\repos\BlHipotenusa\BlHipotenusa\obj\Debug\BlHipotenusa.csprojAssemblyReference.cache
+C:\Users\unaula\source\repos\BlHipotenusa\BlHipotenusa\obj\Debug\BlHipotenusa.csproj.CoreCompileInputs.cache
+C:\Users\unaula\source\repos\BlHipotenusa\BlHipotenusa\obj\Debug\BlHipotenusa.dll
+C:\Users\unaula\source\repos\BlHipotenusa\BlHipotenusa\obj\Debug\BlHipotenusa.pdb
