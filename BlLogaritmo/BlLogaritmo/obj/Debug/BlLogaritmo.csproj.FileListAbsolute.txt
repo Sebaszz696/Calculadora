@@ -1,6 +1,0 @@
-C:\Users\DELL\source\repos\BlLogaritmo\BlLogaritmo\bin\Debug\BlLogaritmo.dll
-C:\Users\DELL\source\repos\BlLogaritmo\BlLogaritmo\bin\Debug\BlLogaritmo.pdb
-C:\Users\DELL\source\repos\BlLogaritmo\BlLogaritmo\obj\Debug\BlLogaritmo.csproj.AssemblyReference.cache
-C:\Users\DELL\source\repos\BlLogaritmo\BlLogaritmo\obj\Debug\BlLogaritmo.csproj.CoreCompileInputs.cache
-C:\Users\DELL\source\repos\BlLogaritmo\BlLogaritmo\obj\Debug\BlLogaritmo.dll
-C:\Users\DELL\source\repos\BlLogaritmo\BlLogaritmo\obj\Debug\BlLogaritmo.pdb
