@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\BlsCoseno\BlsCoseno\bin\Debug\BlsCoseno.dll
+C:\Users\User\source\repos\BlsCoseno\BlsCoseno\bin\Debug\BlsCoseno.pdb
+C:\Users\User\source\repos\BlsCoseno\BlsCoseno\obj\Debug\BlsCoseno.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BlsCoseno\BlsCoseno\obj\Debug\BlsCoseno.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BlsCoseno\BlsCoseno\obj\Debug\BlsCoseno.dll
+C:\Users\User\source\repos\BlsCoseno\BlsCoseno\obj\Debug\BlsCoseno.pdb
