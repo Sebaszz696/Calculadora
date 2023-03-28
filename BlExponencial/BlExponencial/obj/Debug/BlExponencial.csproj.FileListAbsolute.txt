@@ -1,0 +1,6 @@
+C:\Users\unaula\Documents\BlExponencial\BlExponencial\bin\Debug\BlExponencial.dll
+C:\Users\unaula\Documents\BlExponencial\BlExponencial\bin\Debug\BlExponencial.pdb
+C:\Users\unaula\Documents\BlExponencial\BlExponencial\obj\Debug\BlExponencial.csprojAssemblyReference.cache
+C:\Users\unaula\Documents\BlExponencial\BlExponencial\obj\Debug\BlExponencial.csproj.CoreCompileInputs.cache
+C:\Users\unaula\Documents\BlExponencial\BlExponencial\obj\Debug\BlExponencial.dll
+C:\Users\unaula\Documents\BlExponencial\BlExponencial\obj\Debug\BlExponencial.pdb
