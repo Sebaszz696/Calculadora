@@ -1,0 +1,6 @@
+C:\Users\HOME\Documents\TecnicaAl\BlRadicacion\BlRadicacion\bin\Debug\BlRadicacion.dll
+C:\Users\HOME\Documents\TecnicaAl\BlRadicacion\BlRadicacion\bin\Debug\BlRadicacion.pdb
+C:\Users\HOME\Documents\TecnicaAl\BlRadicacion\BlRadicacion\obj\Debug\BlRadicacion.csproj.AssemblyReference.cache
+C:\Users\HOME\Documents\TecnicaAl\BlRadicacion\BlRadicacion\obj\Debug\BlRadicacion.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\TecnicaAl\BlRadicacion\BlRadicacion\obj\Debug\BlRadicacion.dll
+C:\Users\HOME\Documents\TecnicaAl\BlRadicacion\BlRadicacion\obj\Debug\BlRadicacion.pdb
