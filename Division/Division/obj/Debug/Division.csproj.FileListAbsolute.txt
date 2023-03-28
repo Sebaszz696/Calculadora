@@ -1,0 +1,6 @@
+C:\Users\Alejo\source\repos\Division\Division\bin\Debug\Division.dll
+C:\Users\Alejo\source\repos\Division\Division\bin\Debug\Division.pdb
+C:\Users\Alejo\source\repos\Division\Division\obj\Debug\Division.csproj.AssemblyReference.cache
+C:\Users\Alejo\source\repos\Division\Division\obj\Debug\Division.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\source\repos\Division\Division\obj\Debug\Division.dll
+C:\Users\Alejo\source\repos\Division\Division\obj\Debug\Division.pdb
