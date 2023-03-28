@@ -1,0 +1,6 @@
+C:\Users\unaula\source\repos\Moda\Moda\bin\Debug\Moda.dll
+C:\Users\unaula\source\repos\Moda\Moda\bin\Debug\Moda.pdb
+C:\Users\unaula\source\repos\Moda\Moda\obj\Debug\Moda.csprojAssemblyReference.cache
+C:\Users\unaula\source\repos\Moda\Moda\obj\Debug\Moda.csproj.CoreCompileInputs.cache
+C:\Users\unaula\source\repos\Moda\Moda\obj\Debug\Moda.dll
+C:\Users\unaula\source\repos\Moda\Moda\obj\Debug\Moda.pdb
