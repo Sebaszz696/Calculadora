@@ -1,0 +1,6 @@
+C:\Users\unaula\source\repos\ClsLibrary2\Seno\bin\Debug\Seno.dll
+C:\Users\unaula\source\repos\ClsLibrary2\Seno\bin\Debug\Seno.pdb
+C:\Users\unaula\source\repos\ClsLibrary2\Seno\obj\Debug\Seno.csprojAssemblyReference.cache
+C:\Users\unaula\source\repos\ClsLibrary2\Seno\obj\Debug\Seno.csproj.CoreCompileInputs.cache
+C:\Users\unaula\source\repos\ClsLibrary2\Seno\obj\Debug\Seno.dll
+C:\Users\unaula\source\repos\ClsLibrary2\Seno\obj\Debug\Seno.pdb
