@@ -1,0 +1,6 @@
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Moda\bin\Debug\Moda.dll
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Moda\bin\Debug\Moda.pdb
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Moda\obj\Debug\Moda.csproj.AssemblyReference.cache
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Moda\obj\Debug\Moda.csproj.CoreCompileInputs.cache
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Moda\obj\Debug\Moda.dll
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Moda\obj\Debug\Moda.pdb

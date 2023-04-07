@@ -1,0 +1,6 @@
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Coseno\bin\Debug\Coseno.dll
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Coseno\bin\Debug\Coseno.pdb
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Coseno\obj\Debug\Coseno.csproj.AssemblyReference.cache
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Coseno\obj\Debug\Coseno.csproj.CoreCompileInputs.cache
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Coseno\obj\Debug\Coseno.dll
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Coseno\obj\Debug\Coseno.pdb

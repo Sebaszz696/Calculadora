@@ -1,0 +1,6 @@
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Exponencial\bin\Debug\Exponencial.dll
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Exponencial\bin\Debug\Exponencial.pdb
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Exponencial\obj\Debug\Exponencial.csproj.AssemblyReference.cache
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Exponencial\obj\Debug\Exponencial.csproj.CoreCompileInputs.cache
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Exponencial\obj\Debug\Exponencial.dll
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Exponencial\obj\Debug\Exponencial.pdb

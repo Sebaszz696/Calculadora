@@ -1,0 +1,12 @@
+C:\Users\Juan\Desktop\1J mis cosas\universidad\UNAULA\S-3\Lenguage de programacion orientada a obgetos\Git hup 28-02-2023\BlSuma\BlSuma\bin\Debug\BlSuma.dll
+C:\Users\Juan\Desktop\1J mis cosas\universidad\UNAULA\S-3\Lenguage de programacion orientada a obgetos\Git hup 28-02-2023\BlSuma\BlSuma\bin\Debug\BlSuma.pdb
+C:\Users\Juan\Desktop\1J mis cosas\universidad\UNAULA\S-3\Lenguage de programacion orientada a obgetos\Git hup 28-02-2023\BlSuma\BlSuma\obj\Debug\BlSuma.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\1J mis cosas\universidad\UNAULA\S-3\Lenguage de programacion orientada a obgetos\Git hup 28-02-2023\BlSuma\BlSuma\obj\Debug\BlSuma.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\1J mis cosas\universidad\UNAULA\S-3\Lenguage de programacion orientada a obgetos\Git hup 28-02-2023\BlSuma\BlSuma\obj\Debug\BlSuma.dll
+C:\Users\Juan\Desktop\1J mis cosas\universidad\UNAULA\S-3\Lenguage de programacion orientada a obgetos\Git hup 28-02-2023\BlSuma\BlSuma\obj\Debug\BlSuma.pdb
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlSuma\BlSuma\bin\Debug\BlSuma.dll
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlSuma\BlSuma\bin\Debug\BlSuma.pdb
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlSuma\BlSuma\obj\Debug\BlSuma.csproj.AssemblyReference.cache
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlSuma\BlSuma\obj\Debug\BlSuma.csproj.CoreCompileInputs.cache
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlSuma\BlSuma\obj\Debug\BlSuma.dll
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlSuma\BlSuma\obj\Debug\BlSuma.pdb

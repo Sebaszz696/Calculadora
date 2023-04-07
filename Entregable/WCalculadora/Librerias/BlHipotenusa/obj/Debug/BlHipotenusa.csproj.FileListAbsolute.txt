@@ -1,0 +1,6 @@
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlHipotenusa\bin\Debug\BlHipotenusa.dll
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlHipotenusa\bin\Debug\BlHipotenusa.pdb
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlHipotenusa\obj\Debug\BlHipotenusa.csproj.AssemblyReference.cache
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlHipotenusa\obj\Debug\BlHipotenusa.csproj.CoreCompileInputs.cache
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlHipotenusa\obj\Debug\BlHipotenusa.dll
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlHipotenusa\obj\Debug\BlHipotenusa.pdb

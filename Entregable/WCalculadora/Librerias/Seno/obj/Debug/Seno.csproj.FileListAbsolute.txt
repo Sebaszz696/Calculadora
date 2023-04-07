@@ -1,0 +1,6 @@
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Seno\bin\Debug\Seno.dll
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Seno\bin\Debug\Seno.pdb
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Seno\obj\Debug\Seno.csproj.AssemblyReference.cache
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Seno\obj\Debug\Seno.csproj.CoreCompileInputs.cache
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Seno\obj\Debug\Seno.dll
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\Seno\obj\Debug\Seno.pdb

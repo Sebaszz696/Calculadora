@@ -1,0 +1,6 @@
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\BlTangente\bin\Debug\BlTangente.dll
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\BlTangente\bin\Debug\BlTangente.pdb
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\BlTangente\obj\Debug\BlTangente.csproj.AssemblyReference.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\BlTangente\obj\Debug\BlTangente.csproj.CoreCompileInputs.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\BlTangente\obj\Debug\BlTangente.dll
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\BlTangente\obj\Debug\BlTangente.pdb

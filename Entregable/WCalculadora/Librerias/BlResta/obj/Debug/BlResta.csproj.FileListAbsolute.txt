@@ -1,0 +1,6 @@
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlResta\bin\Debug\BlResta.dll
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlResta\bin\Debug\BlResta.pdb
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlResta\obj\Debug\BlResta.csproj.AssemblyReference.cache
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlResta\obj\Debug\BlResta.csproj.CoreCompileInputs.cache
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlResta\obj\Debug\BlResta.dll
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlResta\obj\Debug\BlResta.pdb

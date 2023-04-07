@@ -1,0 +1,6 @@
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlMultiplicacion\BlMultiplicacion\bin\Debug\BlMultiplicacion.dll
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlMultiplicacion\BlMultiplicacion\bin\Debug\BlMultiplicacion.pdb
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlMultiplicacion\BlMultiplicacion\obj\Debug\BlMultiplicacion.csproj.AssemblyReference.cache
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlMultiplicacion\BlMultiplicacion\obj\Debug\BlMultiplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlMultiplicacion\BlMultiplicacion\obj\Debug\BlMultiplicacion.dll
+C:\Users\Mi pc 1\Desktop\Calculadora-main\WCalculadora\Librerias\BlMultiplicacion\BlMultiplicacion\obj\Debug\BlMultiplicacion.pdb
